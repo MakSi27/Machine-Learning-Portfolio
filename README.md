@@ -101,14 +101,3 @@ Helps strengthen academic and job applications.
 - Learn deployment, documentation, and reproducibility  
 
 ---
-
-## 🤝 Contributions
-This repository grows continuously with new projects and improvements.  
-Suggestions for enhancements are always welcome.
-
----
-
-## 📜 License
-This project is open-source and available under the MIT License.
-
----
